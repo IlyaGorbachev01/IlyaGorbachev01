@@ -32,7 +32,3 @@ Here are some ideas to get you started:
 - 📧 **E-mail:** [ilya-gorbachev01@yandex.ru](mailto:ilya-gorbachev01@yandex.ru)
 - 💬 **Telegram:** [@IlyaGorbachev](https://t.me/IlyaGorbachev)
 - 🐙 **GitHub:** [github.com/IlyaGorbachev01](https://github.com/IlyaGorbachev01)
-
-## 📊 Статистика
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlyaGorbachev01&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaGorbachev01&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
