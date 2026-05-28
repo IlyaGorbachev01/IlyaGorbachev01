@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **IlyaGorbachev01/IlyaGorbachev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Привет! Меня зовут Илья 👋
 
-Я разработчик, увлечённый созданием чистого, масштабируемого кода и решением реальных задач. Постоянно изучаю новые технологии и экспериментирую с архитектурой.
+Я Python разработчик, увлечённый созданием чистого, масштабируемого кода и решением реальных задач. Постоянно изучаю новые технологии и экспериментирую с архитектурой.
 
 ## 🛠 Технологический стек
 - **Языки:** `Python 3.9+`
@@ -36,6 +36,3 @@ Here are some ideas to get you started:
 ## 📊 Статистика
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-💬 *Открыт к collaboration, интересным проектам и просто общению. Не стесняйся писать!*
