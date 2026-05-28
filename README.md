@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 > 💡 *Хочешь увидеть полный список технологий или примеры кода? Загляни в мои репозитории!*
 
 ## 📬 Связаться со мной
-- 📧 **E-mail:** [your.email@example.com](mailto:your.email@example.com)
-- 💬 **Telegram:** [@your_telegram_username](https://t.me/your_telegram_username)
-- 🐙 **GitHub:** [github.com/your-username](https://github.com/your-username)
+- 📧 **E-mail:** [ilya-gorbachev01@yandex.ru](mailto:ilya-gorbachev01@yandex.ru)
+- 💬 **Telegram:** [@IlyaGorbachev](https://t.me/IlyaGorbachev)
+- 🐙 **GitHub:** [github.com/IlyaGorbachev01](https://github.com/IlyaGorbachev01)
 
 ## 📊 Статистика
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IlyaGorbachev01&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlyaGorbachev01&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
